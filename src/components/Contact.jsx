@@ -1,9 +1,10 @@
-import { Github, Linkedin, Mail } from 'lucide-react'
+import { Mail } from 'lucide-react'
+import { GitHubIcon, LinkedInIcon } from './BrandIcons.jsx'
 import Magnetic from './Magnetic.jsx'
 
 const socialLinks = [
-  { label: 'GitHub', href: 'https://github.com/Vivaan-Vora', icon: Github },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/vivaan-vora/', icon: Linkedin },
+  { label: 'GitHub', href: 'https://github.com/Vivaan-Vora', icon: GitHubIcon },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/vivaan-vora/', icon: LinkedInIcon },
 ]
 
 function Contact() {
