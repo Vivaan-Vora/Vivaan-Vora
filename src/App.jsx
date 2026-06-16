@@ -2,6 +2,7 @@ import About from './components/About.jsx'
 import CustomCursor from './components/CustomCursor.jsx'
 import Hero from './components/Hero.jsx'
 import Navbar from './components/Navbar.jsx'
+import Projects from './components/Projects.jsx'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Projects />
     </main>
   )
 }
