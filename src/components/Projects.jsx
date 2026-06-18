@@ -1,5 +1,12 @@
 const projects = [
   {
+    id: 'cad-proj',
+    name: '65DegreeCradle',
+    href: 'https://github.com/Vivaan-Vora/cad-proj',
+    description:
+      'Parametric Onshape phone cradle for desk use and 3D printing. Fixed 65° viewing angle with integrated cable routing and variable-driven dimensions for rapid iteration.',
+  },
+  {
     id: 'routix',
     name: 'Routix',
     href: 'https://github.com/Vivaan-Vora/Routix',
