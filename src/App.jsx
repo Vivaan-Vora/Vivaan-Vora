@@ -6,10 +6,12 @@ import Footer from './components/Footer.jsx'
 import Hero from './components/Hero.jsx'
 import Navbar from './components/Navbar.jsx'
 import Projects from './components/Projects.jsx'
+import SiteEffects from './components/SiteEffects.jsx'
 
 function App() {
   return (
     <main className="min-h-screen bg-portfolio-bg text-portfolio-primary">
+      <SiteEffects />
       <CustomCursor />
       <Navbar />
       <Hero />

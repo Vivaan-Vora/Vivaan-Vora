@@ -40,6 +40,15 @@ a {
   font: inherit;
 }
 
+a {
+  text-decoration: none;
+}
+
+:focus-visible {
+  outline: 2px solid #5B9CF6;
+  outline-offset: 4px;
+}
+
 body::before {
   position: fixed;
   inset: 0;
@@ -98,6 +107,21 @@ body::before {
   animation: arrow-float 1.6s ease-in-out infinite;
 }
 
+.reveal {
+  opacity: 0;
+  transform: translateY(26px);
+  transition:
+    opacity 720ms ease,
+    transform 720ms ease;
+  transition-delay: calc(var(--reveal-index, 0) * 70ms);
+  will-change: opacity, transform;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 @keyframes shimmer {
   0%,
   100% {
@@ -123,5 +147,21 @@ body::before {
 @media (pointer: coarse) {
   .cursor-dot {
     display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
   }
 }
