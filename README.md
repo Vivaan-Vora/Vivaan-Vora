@@ -26,4 +26,8 @@
 
 **[ROS2 Sensor Fusion And Autonomous Control](https://github.com/Vivaan-Vora/ROS2-Sensor-Fusion-And-Autonomous-Control)** — Real-time localization system for a differential-drive robot using LIDAR, IMU, and wheel encoder data. Implements an Extended Kalman Filter within a ROS2 navigation stack with configurable sensor tuning.
 
-[Email](mailto:vivora@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/vivaan-vora/) · [GitHub](https://github.com/Vivaan-Vora)
+<p align="center">
+  <a href="mailto:vivora@ucsc.edu">Email</a> ·
+  <a href="https://www.linkedin.com/in/vivaan-vora/">LinkedIn</a> ·
+  <a href="https://github.com/Vivaan-Vora">GitHub</a>
+</p>
