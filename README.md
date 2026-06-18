@@ -1,4 +1,4 @@
-# Vivaan Vora - Robotics Engineering @ UC Santa Cruz
+<h1 align="center">Vivaan Vora - Robotics Engineering @ UC Santa Cruz</h1>
 
 <h3 align="center">Skills</h3>
 
