@@ -1,6 +1,6 @@
 # Vivaan Vora - Robotics Engineering @ UC Santa Cruz
 
-### Skills
+<h3 align="center">Skills</h3>
 
 **Languages:** Python, C, C++, TypeScript, Java, MATLAB, Bash
 
@@ -10,7 +10,7 @@
 
 **Hardware & CAD:** Raspberry Pi, Arduino, SolidWorks, Fusion 360
 
-### Currently
+<h3 align="center">Current</h3>
 
 **Software Engineering Intern (Summer 2026) @ EZRE** — Building accessible payment infrastructure for blind and low-vision users. Integrated the Square POS API for itemized receipt delivery and tipping flows; validated against VoiceOver and TalkBack screen reader standards across multiple device configurations.
 
@@ -18,7 +18,7 @@
 
 **Undergraduate Researcher @ AIEA Lab** — Investigating compositional explanation generation for LSTM models on Natural Language Inference tasks via the Memory Wrap architecture. Running reinforcement learning baselines using Stable Baselines 3 and Gymnasium on autonomous vehicle perception pipelines in CARLA and Vista.
 
-### Projects
+<h3 align="center">Projects</h3>
 
 **[Navra](https://github.com/Vivaan-Vora/Navra)** — 2D and 3D warehouse navigation simulator combining classical pathfinding and reinforcement learning. Trains agents through dynamic obstacle environments using Q-learning and DQN, with built-in diagnostics, failure analysis, and benchmarking.
 
