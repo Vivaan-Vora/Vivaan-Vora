@@ -1,8 +1,8 @@
 const projects = [
   {
-    id: 'navra',
-    name: 'Navra',
-    href: 'https://github.com/Vivaan-Vora/Navra',
+    id: 'routix',
+    name: 'Routix',
+    href: 'https://github.com/Vivaan-Vora/Routix',
     description:
       '2D and 3D warehouse navigation simulator combining classical pathfinding and reinforcement learning. Trains agents through dynamic obstacle environments using Q-learning and DQN, with built-in diagnostics, failure analysis, and benchmarking.',
   },
