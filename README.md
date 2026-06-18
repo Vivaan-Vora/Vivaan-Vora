@@ -10,7 +10,7 @@
 
 **Hardware & CAD:** Raspberry Pi, Arduino, SolidWorks, Fusion 360
 
-### Current
+### Active
 
 **Software Engineering Intern (Summer 2026) @ EZRE** — Building accessible payment infrastructure for blind and low-vision users. Integrated the Square POS API for itemized receipt delivery and tipping flows; validated against VoiceOver and TalkBack screen reader standards across multiple device configurations.
 
