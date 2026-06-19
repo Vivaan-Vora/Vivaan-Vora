@@ -1,4 +1,5 @@
-import { ExternalLink, Github, Star } from 'lucide-react'
+import { ExternalLink, Star } from 'lucide-react'
+import { GitHubIcon } from './BrandIcons.jsx'
 
 const projects = [
   {
@@ -10,7 +11,7 @@ const projects = [
     details:
       'Features physics from scratch, anti-windup PID, live pygame rendering, real-time matplotlib plots, runtime gain tuning with sliders, disturbance metrics, and CSV/JSON logging.',
     stack: ['Python', 'pygame', 'matplotlib', 'numpy'],
-    links: [{ label: 'GitHub', href: 'https://github.com/Vivaan-Vora', icon: Github }],
+    links: [{ label: 'GitHub', href: 'https://github.com/Vivaan-Vora', icon: GitHubIcon }],
   },
   {
     name: 'Mammoly',
