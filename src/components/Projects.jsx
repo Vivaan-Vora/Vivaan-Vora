@@ -20,13 +20,6 @@ const projects = [
     description:
       'Real-time simulation of an inverted pendulum with a tunable PID controller. Implements closed-loop control with configurable proportional, integral, and derivative gains alongside live state visualization.',
   },
-  {
-    id: 'ros2-sensor-fusion-and-autonomous-control',
-    name: 'ROS2 Sensor Fusion And Autonomous Control',
-    href: 'https://github.com/Vivaan-Vora/ROS2-Sensor-Fusion-And-Autonomous-Control',
-    description:
-      'Real-time localization system for a differential-drive robot using LIDAR, IMU, and wheel encoder data. Implements an Extended Kalman Filter within a ROS2 navigation stack with configurable sensor tuning.',
-  },
 ]
 
 function Projects() {
