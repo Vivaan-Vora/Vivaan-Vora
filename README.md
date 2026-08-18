@@ -26,8 +26,6 @@
 
 **[PID Inverted Pendulum Simulation](https://github.com/Vivaan-Vora/PID-Inverted-Pendulum-Simulation)** — Real-time simulation of an inverted pendulum with a tunable PID controller. Implements closed-loop control with configurable proportional, integral, and derivative gains alongside live state visualization.
 
-**[ROS2 Sensor Fusion And Autonomous Control](https://github.com/Vivaan-Vora/ROS2-Sensor-Fusion-And-Autonomous-Control)** — Real-time localization system for a differential-drive robot using LIDAR, IMU, and wheel encoder data. Implements an Extended Kalman Filter within a ROS2 navigation stack with configurable sensor tuning.
-
 <p align="center">
   <a href="mailto:vivora@ucsc.edu">Email</a> ·
   <a href="https://www.linkedin.com/in/vivaan-vora/">LinkedIn</a> ·
