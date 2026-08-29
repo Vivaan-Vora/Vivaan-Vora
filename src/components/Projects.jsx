@@ -4,7 +4,7 @@ const projects = [
     name: 'Routix',
     href: 'https://github.com/Vivaan-Vora/Routix',
     description:
-      '2D and 3D warehouse navigation simulator combining classical pathfinding and reinforcement learning. Trains agents through dynamic obstacle environments using Q-learning and DQN, with built-in diagnostics, failure analysis, and benchmarking.',
+      '2D and 3D warehouse navigation simulator comparing classical pathfinding against agents that learn through trial and error. Includes tools for visualizing performance and diagnosing failures across different obstacle scenarios.',
   },
   {
     id: 'cad-proj',

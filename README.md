@@ -20,11 +20,11 @@
 
 ### Technical Projects
 
-**[Routix](https://github.com/Vivaan-Vora/Routix)** — 2D and 3D warehouse navigation simulator combining classical pathfinding and reinforcement learning. Trains agents through dynamic obstacle environments using Q-learning and DQN, with built-in diagnostics, failure analysis, and benchmarking.
+**[Routix](https://github.com/Vivaan-Vora/Routix)** — 2D and 3D warehouse navigation simulator comparing classical pathfinding against agents that learn through trial and error. Includes tools for visualizing performance and diagnosing failures across different obstacle scenarios.
 
-**[65DegreeCradle](https://github.com/Vivaan-Vora/cad-proj)** — Parametric phone cradle built in Onshape for desk use and FDM 3D printing. Fixed 65° viewing angle with integrated cable cutout, stable weighted base, filletted printable walls, and named design variables for fast iteration.
+**[65DegreeCradle](https://github.com/Vivaan-Vora/cad-proj)** — Parametric phone cradle designed for desk use and 3D printing. Fixed 65° viewing angle, integrated cable routing, and a weighted base for stability, with adjustable design variables for quick iteration.
 
-**[PID Inverted Pendulum Simulation](https://github.com/Vivaan-Vora/PID-Inverted-Pendulum-Simulation)** — Real-time simulation of an inverted pendulum with a tunable PID controller. Implements closed-loop control with configurable proportional, integral, and derivative gains alongside live state visualization.
+**[PID Inverted Pendulum Simulation](https://github.com/Vivaan-Vora/PID-Inverted-Pendulum-Simulation)** — Real-time simulation of a balanced inverted pendulum with a tunable feedback controller, including live visualization of system state as it stabilizes.
 
 <p align="center">
   <a href="mailto:vivora@ucsc.edu">Email</a> ·
