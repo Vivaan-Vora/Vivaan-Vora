@@ -1,6 +1,6 @@
 <h1 align="center">Vivaan Vora - Robotics Engineering @ UC Santa Cruz</h1>
 
-### Skills
+### Technical Skills
 
 **Languages:** Python, C, C++, TypeScript/JavaScript, Java, MATLAB, HTML/CSS, SQL
 
@@ -20,7 +20,7 @@
 
 **Software Engineer Intern (Summer 2026) @ EZRE** — Building accessible payment infrastructure for blind and low-vision users. Integrated the Square POS API for itemized receipt delivery and tipping flows; validated against VoiceOver and TalkBack screen reader standards across multiple device configurations.
 
-### Projects
+### Technical Projects
 
 **[Routix](https://github.com/Vivaan-Vora/Routix)** — 2D and 3D warehouse navigation simulator combining classical pathfinding and reinforcement learning. Trains agents through dynamic obstacle environments using Q-learning and DQN, with built-in diagnostics, failure analysis, and benchmarking.
 
