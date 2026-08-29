@@ -16,7 +16,7 @@
 
 **Undergraduate Researcher (June 2026 - Present) @ AIEA Lab** — Investigating neural explanations for LLMs via compositional explanation generation and Self-Explaining Neural Networks; training reinforcement learning agents for autonomous vehicle perception in high-fidelity driving simulators across multiple scenarios.
 
-**Undergraduate Researcher (Jan 2026 - Present) @ Tech4Good** — Designing and evaluating multi-agent orchestration systems using Google ADK and Gemini across LoopAgent, ParallelAgent, and a custom dual-runner architecture. Building RAG pipelines with Pinecone and integrating MCP servers for tool-augmented agentic workflows.
+**Undergraduate Researcher (Jan 2026 - Present) @ Tech4Good Lab** — Designing and evaluating multi-agent orchestration systems using Google ADK and Gemini across LoopAgent, ParallelAgent, and a custom dual-runner architecture. Building RAG pipelines with Pinecone and integrating MCP servers for tool-augmented agentic workflows.
 
 ### Technical Projects
 
