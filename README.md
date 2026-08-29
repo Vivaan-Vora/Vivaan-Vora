@@ -14,9 +14,9 @@
 
 **Software Engineer Intern (Summer 2026) @ EZRE** — Building accessible payment infrastructure for blind and low-vision users. Integrated the Square POS API for itemized receipt delivery and tipping flows; validated against VoiceOver and TalkBack screen reader standards across multiple device configurations.
 
-**Undergraduate Researcher (Jan 2026 - Present) @ Tech4Good** — Designing and evaluating multi-agent orchestration systems using Google ADK and Gemini across LoopAgent, ParallelAgent, and a custom dual-runner architecture. Building RAG pipelines with Pinecone and integrating MCP servers for tool-augmented agentic workflows.
+**Undergraduate Researcher (June 2026 - Present) @ AIEA Lab** — Investigating neural explanations for LLMs via compositional explanation generation and Self-Explaining Neural Networks; training reinforcement learning agents for autonomous vehicle perception in high-fidelity driving simulators across multiple scenarios.
 
-**Undergraduate Researcher (June 2026 - Present) @ AIEA Lab** — Investigating compositional explanation generation for LSTM models on Natural Language Inference tasks via the Memory Wrap architecture. Running reinforcement learning baselines using Stable Baselines 3 and Gymnasium on autonomous vehicle perception pipelines in CARLA and Vista.
+**Undergraduate Researcher (Jan 2026 - Present) @ Tech4Good** — Designing and evaluating multi-agent orchestration systems using Google ADK and Gemini across LoopAgent, ParallelAgent, and a custom dual-runner architecture. Building RAG pipelines with Pinecone and integrating MCP servers for tool-augmented agentic workflows.
 
 ### Technical Projects
 
