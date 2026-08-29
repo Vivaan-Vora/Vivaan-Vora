@@ -12,7 +12,7 @@
 
 ### Active
 
-**Software Engineer Intern (Summer 2026) @ EZRE** — Building accessible payment infrastructure for blind and low-vision users. Integrated the Square POS API for itemized receipt delivery and tipping flows; validated against VoiceOver and TalkBack screen reader standards across multiple device configurations.
+**Software Engineer Intern (Summer 2026) @ EZRE** — Built accessible payment infrastructure for blind and low-vision users. Integrated the Square POS API for itemized receipt delivery and tipping flows; validated against VoiceOver and TalkBack screen reader standards across multiple device configurations.
 
 **Undergraduate Researcher (June 2026 - Present) @ AIEA Lab** — Investigating neural explanations for LLMs via compositional explanation generation and Self-Explaining Neural Networks; training reinforcement learning agents for autonomous vehicle perception in high-fidelity driving simulators across multiple scenarios.
 
