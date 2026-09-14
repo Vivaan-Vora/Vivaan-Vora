@@ -2,13 +2,13 @@
 
 ### Skills
 
-**Languages:** Python, C, C++, TypeScript/JavaScript, Java, MATLAB, HTML/CSS, SQL
+**Languages:** Python, C++, MATLAB, C, TypeScript/JavaScript, Java, HTML/CSS, SQL
 
 **Frameworks & Tools:** React, FastAPI, Flask, Streamlit, REST APIs, Firebase, Docker, Git
 
 **ML / AI:** PyTorch, TensorFlow, OpenCV, NumPy, scikit-learn, RAG Pipelines, Pinecone, Multi-Agent Systems, MCP Servers
 
-**Hardware & CAD:** Raspberry Pi, Arduino, Fusion 360, 3D Printing
+**Hardware & CAD:** Solidworks, AutoCAD, Raspberry Pi, Arduino, Fusion 360, 3D Printing
 
 ### Active
 
